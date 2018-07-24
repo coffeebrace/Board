@@ -32,5 +32,5 @@ For further information, please visit the [Document](https://wwww.coffeebrace.co
 
 * [Documentation](http://www.coffeebrace.co.kr)
 * [Slack](https://coffeebrace.slack.com/messages/CBX74T0JJ/)
-* [Instagram](http://www.coffeebrace.co.kr)
+* [Instagram](http://www.instagram.com/coffeebrace)
 * [More](http://www.coffeebrace.co.kr)
